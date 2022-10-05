@@ -8,6 +8,9 @@ body {
     padding-top: 7%;
     position: relative;
 }
+.owt:nth-child(even){
+display: auto;
+}
 
 .row {
     clear: both;
